@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App"
+             x:Class="App.MainPage">
+
+    <StackLayout>
+        <Button Text="Supplier page" Clicked="Button_Supplier_Clicked"/>
+        <Label x:Name="text" HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <Editor x:Name="editor" BackgroundColor="Aqua" />
+        <Button Text="Get employees" Clicked="Button_Clicked"/>
+        <Button Text="Add employee" Clicked="Button_Add_Clicked"/>
+        <Button Text="Update employee" Clicked="Button_Update_Clicked"/>
+        <Button Text="Delete employee" Clicked="Button_Delete_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

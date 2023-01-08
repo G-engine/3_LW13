@@ -1,0 +1,10 @@
+D:\projects\C#\lw13\DBm\bin\Debug\netstandard2.0\DBm.deps.json
+D:\projects\C#\lw13\DBm\bin\Debug\netstandard2.0\DBm.dll
+D:\projects\C#\lw13\DBm\bin\Debug\netstandard2.0\DBm.pdb
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.csproj.AssemblyReference.cache
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.AssemblyInfoInputs.cache
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.AssemblyInfo.cs
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.csproj.CoreCompileInputs.cache
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.dll
+D:\projects\C#\lw13\DBm\obj\Debug\netstandard2.0\DBm.pdb

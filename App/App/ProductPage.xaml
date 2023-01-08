@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.ProductPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="text" HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"/>
+            <Editor x:Name="editor" BackgroundColor="Aqua" />
+            <Button Text="Get products" Clicked="Button_Clicked"/>
+            <Button Text="Add product" Clicked="Button_Add_Clicked"/>
+            <Button Text="Update product" Clicked="Button_Update_Clicked"/>
+            <Button Text="Delete product" Clicked="Button_Delete_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
